@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @priyank7191
-- 👀 I’m interested in Django, Nodejs.
-- 🌱 I’m currently learning Angular
+- 👋 Hi, I’m @priyank7191 (Priyank Desai)
+- 👀 I’m interested in Django, Nodejs, React, Serverless, AWS.
+- 🌱 I’m currently learning AWS, Serverless
 - 💞️ I’m looking to collaborate on Django, Nodejs projects
 - 📫 How to reach me priyank1500@gmai.com or call / whatsapp +918347985001
 
